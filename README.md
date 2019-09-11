@@ -1,11 +1,4 @@
 <body>
-    <section class="page-header">
-      <h1 class="project-name">Hello, World!</h1>
-      <h2 class="project-tagline">Creating a Web Page!</h2>
-      
-        <a href="https://github.com/Aiyanavezoli/Project0" class="btn">View on GitHub</a>
-      
-      
     </section>
 
     <section class="main-content">
