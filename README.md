@@ -11,7 +11,7 @@
 
 <p>I am a first-year college student; my major is cloud computing and cybersecurity. I am currently trying to learn Python and JavaScript programming languages. This web page is my first attempt at learning coding for my classes, so please bear with me.  I am eager to learn new ways to improve my professional skills. </p>
 <p>
-  <img src="Avf.png"
+  <img src="https://avatars1.githubusercontent.com/u/53659447?s=400&u=a0ee090d8e62aeb36ce7c6a73a576c6bc0d9ed49&v=4"
     alt="Hey it's me!" />
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Playing Around With Blocks!
 
