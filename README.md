@@ -10,7 +10,9 @@
 <h3 id="markdown">More About Me</h3>
 
 <p>I am a first-year college student; my major is cloud computing and cybersecurity. I am currently trying to learn Python and JavaScript programming languages. This web page is my first attempt at learning coding for my classes, so please bear with me.  I am eager to learn new ways to improve my professional skills. </p>
-
+<p>
+  <img src="Avf.png"
+    alt="Hey it's me!" />
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Playing Around With Blocks!
 
 <span class="gh">Header 1</span>
