@@ -1,5 +1,4 @@
-
-  <body>
+<body>
     <section class="page-header">
       <h1 class="project-name">Hello, World!</h1>
       <h2 class="project-tagline">Creating a Web Page!</h2>
@@ -52,4 +51,3 @@
 
     
   </body>
-</html>
