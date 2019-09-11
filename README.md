@@ -1,10 +1,4 @@
 
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#142626">
-    <link rel="stylesheet" href="/Project0/assets/css/style.css?v=b7ecc988d59d2d30548534a4ed9463bb7d35ebc3">
   </head>
   <body>
     <section class="page-header">
@@ -46,7 +40,7 @@
 
 <h3 id="support-or-contact">Contacts</h3>
 
-<p>Need to reach out? Here is my <a href="avezoli@student.cccs.edu">Email!</a></p>
+<p>Need to reach out? Here is my Email! Avezoli@student.cccs.edu </p>
 
 
       <footer class="site-footer">
