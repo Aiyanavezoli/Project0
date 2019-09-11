@@ -2,20 +2,7 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Welcome | Hello, World!</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Welcome" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://aiyanavezoli.github.io/Project0/" />
-<meta property="og:url" content="https://aiyanavezoli.github.io/Project0/" />
-<meta property="og:site_name" content="Project0" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Welcome","url":"https://aiyanavezoli.github.io/Project0/","name":"Project0","description":"Creating a Web Page!","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#142626">
     <link rel="stylesheet" href="/Project0/assets/css/style.css?v=b7ecc988d59d2d30548534a4ed9463bb7d35ebc3">
   </head>
@@ -59,7 +46,7 @@
 
 <h3 id="support-or-contact">Contacts</h3>
 
-<p>Need to reach out? Here is my Email! <a href="avezoli@student.cccs.edu">Email</a></p>
+<p>Need to reach out? Here is my <a href="avezoli@student.cccs.edu">Email!</a></p>
 
 
       <footer class="site-footer">
