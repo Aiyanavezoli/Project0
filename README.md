@@ -1,5 +1,4 @@
 <body>
-    </section>
 
     <section class="main-content">
       <h2 id="welcome">Welcome</h2>
