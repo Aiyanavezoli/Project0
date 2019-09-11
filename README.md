@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -9,8 +7,6 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Welcome" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Creating a Web Page!" />
-<meta property="og:description" content="Creating a Web Page!" />
 <link rel="canonical" href="https://aiyanavezoli.github.io/Project0/" />
 <meta property="og:url" content="https://aiyanavezoli.github.io/Project0/" />
 <meta property="og:site_name" content="Project0" />
@@ -45,7 +41,7 @@
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Playing Around With Blocks!
 
-<span class="gh">Header 1 1</span>
+<span class="gh">Header 1</span>
 <span class="gu">Header 2</span>
 <span class="gu">Header 3</span>
 <span class="p">
@@ -62,7 +58,7 @@
 
 <h3 id="support-or-contact">Contacts</h3>
 
-<p>Need to reach out? Here are my Contacts<a href="avezoli@student.cccs.edu">documentation</a> or <a href="https://github.com/contact"</p>
+<p>Need to reach out? Here is my Email! <a href="avezoli@student.cccs.edu">Email</a></p>
 
 
       <footer class="site-footer">
