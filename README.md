@@ -31,4 +31,3 @@
 <h3 id="support-or-contact">Contacts</h3>
 
 <p>Need to reach out? Here is my Email! Avezoli@student.cccs.edu </p>
-</body>
