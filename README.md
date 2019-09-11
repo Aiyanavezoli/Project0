@@ -36,4 +36,3 @@
       <footer class="site-footer">
         
           <span class="site-footer-owner"><a href="https://github.com/Aiyanavezoli/Project0">Project0</a> is maintained by <a href="https://github.com/Aiyanavezoli">Aiyanavezoli</a>.</span>
-  </body>
